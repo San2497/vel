@@ -1,0 +1,12 @@
+# Virtuální prostředí – na každém PC se vytváří znovu
+.venv/
+__pycache__/
+*.pyc
+
+# Konfigurace s IP adresami – vytvořte z .env.example
+.env
+
+# Data a tajné klíče
+*.db
+*.db.bak*
+.subscription-*.json
