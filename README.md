@@ -7,6 +7,8 @@
 
 Oba servery mají dokumentaci generovanou z kódu na `/docs` (Swagger UI) a `/openapi.json`.
 
+> **Ve škole:** podrobný postup nastavení, spuštění a řešení problémů je v [SKOLA.md](SKOLA.md).
+
 ## Instalace (na každém PC zvlášť, Python 3.10+)
 
 V obou složkách `centrala` i `terminal`:
